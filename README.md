@@ -1,2 +1,2 @@
-# applications
-app redirecting applications from website to telegram
+# checker
+Website checker using go/telegram-api
